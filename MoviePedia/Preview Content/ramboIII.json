@@ -1,0 +1,19 @@
+{
+    "title": "Rambo III",
+    "year": 1988,
+    "cast": [
+        "Sylvester Stallone",
+        "Richard Crenna",
+        "Kurtwood Smith",
+        "Sasson Gabai",
+        "Marc de Jonge"
+    ],
+    "genres": [
+        "Action"
+    ],
+    
+    "extract": "Rambo III is a 1988 American action film directed by Peter MacDonald and co-written by Sylvester Stallone, who also reprises his role as Vietnam War veteran John Rambo. A sequel to Rambo: First Blood Part II (1985), it is the third installment in the Rambo franchise.",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a3/Rambo3poster.jpg",
+    "thumbnail_width": 250,
+    "thumbnail_height": 398
+    }
